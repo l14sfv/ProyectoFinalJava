@@ -56,7 +56,7 @@ TECHSOLUTIONS/
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/techsolutions.git
+   git clone https://github.com/l14sfv/ProyectoFinalJava.git
 2. Abre el proyecto con tu IDE favorito.
 
 3. Ejecuta la clase Main.java.
